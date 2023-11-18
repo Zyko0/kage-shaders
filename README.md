@@ -6,11 +6,11 @@ It starts with mine, mostly fullscreen and post-processing shaders, but anyone i
 
 For a gentle introduction to Kage (include tutorials and examples), please have a look at https://github.com/tinne26/kage-desk
 
-# Notes
+## Notes
 
 - Shaders are all written based on Kage's pixel-mode (https://ebitengine.org/en/documents/shader.html#Unit_mode)
 
-# Contribute
+## Contribute
 
 Just open a PR!
 
