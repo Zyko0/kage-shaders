@@ -16,4 +16,5 @@ Just open a PR!
 
 - If some shaders are defining constants for actual parameters (that could be defined as uniforms), feel free to make a suggestion!
 - Some features might be cut, some numbers might be tweaked wrongly based on what's visually expected when porting, so again feel free to contribute with fixes if something is not right!
+- Feel free to request for a glsl/hlsl translation to Kage as an issue, though I can't guarantee that I'll access to the request, but again² anyone can tackle these 
 - Example applications? Why not!
