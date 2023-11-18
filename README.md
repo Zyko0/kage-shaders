@@ -13,4 +13,4 @@ It starts with mine, mostly fullscreen and post-processing shaders, but anyone i
 Just open a PR!
 
 - If some shaders are defining constants for actual parameters (that could be defined as uniforms), feel free to make a suggestion!
-- Some features might be cut, some numbers might be tweaked wrongly based on what's visually expected when porting, so again feel free to contribute to fixes if something's not right!
+- Some features might be cut, some numbers might be tweaked wrongly based on what's visually expected when porting, so again feel free to contribute with fixes if something is not right!
