@@ -4,6 +4,8 @@ List of general-purpose shaders written in Kage for Ebitengine (https://github.c
 More info about Kage (Ebitengine shading language): https://ebitengine.org/en/documents/shader.html
 It starts with mine, mostly fullscreen and post-processing shaders, but anyone is welcome to open a PR.
 
+For a gentle introduction to Kage (include tutorials and examples), please have a look at https://github.com/tinne26/kage-desk
+
 # Notes
 
 - Shaders are all written based on Kage's pixel-mode (https://ebitengine.org/en/documents/shader.html#Unit_mode)
